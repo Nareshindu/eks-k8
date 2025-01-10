@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: expense-naresh
-  region: eu-north-1
+  region: us-east-1
 
 managednodeGroups:
   - name: expense-naresh1
